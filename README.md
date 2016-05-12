@@ -1,1 +1,1 @@
-# boot-scra
+# sample scripts
